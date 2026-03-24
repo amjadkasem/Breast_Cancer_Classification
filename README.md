@@ -34,6 +34,6 @@ Detailed performance for each classifier:
 ## ⚙️ How to Run
 1. Clone the repository to your local machine.
 2. Install the required libraries:
-   ```bash
-3. Open Breast_Cancer.ipynb in Jupyter Notebook or VS Code and run all cells.  
+   ```bash 
    pip install pandas scikit-learn seaborn matplotlib
+3. Open Breast_Cancer.ipynb in Jupyter Notebook or VS Code and run all cells. 
