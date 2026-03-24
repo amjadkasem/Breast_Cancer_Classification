@@ -19,7 +19,18 @@ The project evaluates three main algorithms, using **GridSearchCV** to find the 
 * `breast.csv`: The raw dataset used for training and testing.
 * `Breast_Cancer.ipynb`: Jupyter notebook containing the full analysis and code.
 * `LICENSE`: MIT License information.
+## 📊 Results & Visualizations
 
+### 1. Model Comparison Accuracy
+This chart shows the performance comparison between the models:
+![Accuracy Comparison](images/Cross-Validation%20Accuracy.png)
+
+### 2. Confusion Matrices
+Detailed performance for each classifier:
+
+| GaussianNB | KNN | SVM |
+| :---: | :---: | :---: |
+| ![GNB](images/GaussianNB.png) | ![KNN](images/KNN.png) | ![SVM](images/SVM.png) |
 ## ⚙️ How to Run
 1. Clone the repository to your local machine.
 2. Install the required libraries:
